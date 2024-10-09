@@ -6,7 +6,7 @@ Created on Sun Sep 17 17:51:24 2023
 """
 
 email_envoi = "jvnbadataanalyst@gmail.com"
-email_password = "stirrgtuatnxaqnc"
+email_password = " "
 email_reception = "jv.data.analyst@gmail.com"
 email_reception2 = "nba2023nba2023nba@gmail.com"
 
