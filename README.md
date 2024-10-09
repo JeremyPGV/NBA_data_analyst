@@ -39,18 +39,18 @@ Chaque catégorie compare le pourcentage de réussite du joueur par rapport à s
 
 Bibliothèques utilisées :
 
-pandas
-matplotlib.pyplot
-import matplotlib.image
-matplotlib.offsetbox
-datetime
-matplotlib.patches
-numpy
-os
-PIL
-sys
-email.message
-ssl
+pandas,
+matplotlib.pyplot,
+matplotlib.image,
+matplotlib.offsetbox,
+datetime,
+matplotlib.patches,
+numpy,
+os,
+PIL,
+sys,
+email.message,
+ssl,
 smtplib
 
 
